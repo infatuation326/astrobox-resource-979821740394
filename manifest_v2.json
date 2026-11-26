@@ -1,0 +1,37 @@
+{
+  "item": {
+    "id": "979821740394",
+    "restype": "watchface",
+    "name": "素序 · FIVE",
+    "description": "一块表盘，五种美学。轻点表盘右上角即时切换工业、瑞士网格、液面、墨水屏与纵排书签，零滑动冲突，耐看更克制。",
+    "preview": [
+      "media/39659.png",
+      "media/39660.png",
+      "media/39657.png",
+      "media/39661.png",
+      "media/39658.png"
+    ],
+    "icon": "media/39656.png",
+    "cover": "media/39655.png",
+    "author": [
+      {
+        "name": "infatuation326",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "0.0.0",
+      "file_name": "downloads/suxu_five_band10pro_v3.0.face",
+      "versionCode": 0
+    },
+    "xmb9p": {
+      "version": "0.0.0",
+      "file_name": "downloads/suxu_five_band9pro_v3.0.face",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
